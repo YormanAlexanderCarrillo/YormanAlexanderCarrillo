@@ -28,7 +28,7 @@ Soy Tecnólogo en Telecomunicaciones y estudiante de 8vo semestre de Ingeniería
 
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/yorman-alexander-carrillo-martinez-aa64651aa/)
 - Correo Electrónico: (yorman.carrillo@uptc.edu.co)
-- Sitio Web Personal: [Sitio Web](https://yormanalexandercarrillo.github.io/)
+- Sitio Web Personal: [Sitio Web](https://yormanalexandercarrillo.github.io/WebPersonal/)
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta, sugerencia o proyecto en mente, ¡no dudes en contactarme!
 
