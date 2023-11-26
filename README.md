@@ -2,7 +2,7 @@
 
 ## Perfil Profesional
 
-Soy Tecnólogo en Telecomunicaciones y estudiante de 8vo semestre de Ingeniería de Sistemas con conocimiento en diversas tecnologías de desarrollo, incluyendo Java, JavaScript, React, Node.js, Express, GraphQL, MongoDB. Mi sólida base en telecomunicaciones y mi creciente conocimiento en ingeniería de sistemas me permiten abordar proyectos tecnológicos con un enfoque integral y una mentalidad analítica.
+Soy Tecnólogo en Telecomunicaciones y estudiante de Ingeniería de Sistemas con conocimiento en diversas tecnologías de desarrollo, incluyendo Java, JavaScript, React, Node.js, Express, GraphQL, MongoDB. Mi sólida base en telecomunicaciones y mi creciente conocimiento en ingeniería de sistemas me permiten abordar proyectos tecnológicos con un enfoque integral y una mentalidad analítica.
 
 ## Habilidades Técnicas
 <div align="center">
