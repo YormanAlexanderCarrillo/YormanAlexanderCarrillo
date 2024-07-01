@@ -31,9 +31,9 @@ Soy Tecnólogo en Telecomunicaciones y estudiante de Ingeniería de Sistemas con
 
 ## Contacto
 
-- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/yorman-alexander-carrillo-martinez-aa64651aa/)
-- Correo Electrónico: (yorman.carrillo@uptc.edu.co)
-- Sitio Web Personal: [Sitio Web](https://alexandercarrillo-yorman-alexander-carrillos-projects.vercel.app/)
+- LinkedIn: <a href="https://www.linkedin.com/in/yorman-alexander-carrillo-martinez-aa64651aa/" target="_blank">Perfil de LinkedIn</a>
+- Correo Electrónico: <a href="mailto:yorman.carrillo@uptc.edu.co" target="_blank">Correo</a>
+- Sitio Web Personal: <a href="https://alexandercarrillo-yorman-alexander-carrillos-projects.vercel.app/" target="_blank">Sitio Web</a>
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta, sugerencia o proyecto en mente, ¡no dudes en contactarme!
 
