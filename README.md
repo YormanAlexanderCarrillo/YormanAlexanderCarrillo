@@ -37,3 +37,6 @@ Soy Tecnólogo en Telecomunicaciones y estudiante de Ingeniería de Sistemas con
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta, sugerencia o proyecto en mente, ¡no dudes en contactarme!
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YormanAlexanderCarrillo&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YormanAlexanderCarrillo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
