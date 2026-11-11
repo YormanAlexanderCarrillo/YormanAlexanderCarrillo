@@ -2,7 +2,7 @@
 
 ## Perfil Profesional
 
-Soy Tecnólogo en Telecomunicaciones y estudiante de Ingeniería de Sistemas con conocimiento en diversas tecnologías de desarrollo, incluyendo Java, JavaScript, React, Node.js, Express, GraphQL, MongoDB. Mi sólida base en telecomunicaciones y mi creciente conocimiento en ingeniería de sistemas me permiten abordar proyectos tecnológicos con un enfoque integral y una mentalidad analítica.
+Ingeniero de Sistemas y Computación con formación tecnológica complementaria en Telecomunicaciones. Cuento con sólida experiencia en la gestión de incidentes, monitoreo de servicios críticos y soporte de redes de datos, combinada con sólidas competencias en desarrollo Full-Stack (JavaScript, React.js, Node.js, Java, SpringBoot) y aplicaciones multiplataforma. Profesional proactivo, adaptable y con alta capacidad analítica, enfocado en diseñar e implementar soluciones tecnológicas eficientes que optimicen procesos operativos y garanticen la continuidad del negocio.
 
 ## Habilidades Técnicas
 <div align="center">
